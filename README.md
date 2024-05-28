@@ -30,7 +30,7 @@
 <br><br>
 
 # 🏅 Baekjoon solved rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lulunlnl)](https://solved.ac/lulunlnl)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lulunlnl)](https://solved.ac/lulunlnl)  
 
 ## WORK EXPERIENCE
 
