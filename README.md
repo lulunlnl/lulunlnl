@@ -65,7 +65,7 @@ Gyeonggi Science High School ```(2023/03 ~ Present)```
 
 <!-- My snake -->
 <!--img src="https://github.com/lulunlnl/lulunlnl/blob/output/github-snake-dark.svg" width="100%"-->
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=lulunlnl&theme=dark"/>
 
 <br><br>
 <!-- Hit counter -->
