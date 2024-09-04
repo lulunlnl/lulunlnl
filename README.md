@@ -42,16 +42,6 @@ Gyeonggi Science High School ```(2023/03 ~ Present)```
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-%23368794?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
-<span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-<span>
-<span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
-</span>
 
 ## Publications
 
